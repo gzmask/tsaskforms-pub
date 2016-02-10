@@ -1,0 +1,8 @@
+/target
+/cache/
+/tags/
+*.zip
+*.jar
+*.class
+log/*
+tsask/resources/export.csv

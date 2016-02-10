@@ -1,0 +1,30 @@
+﻿/*
+.sf_admin_action_edit{ padding:5px 0; float:left; width:100%;}
+.sf_admin_action_edit a{ display:inline-block; padding:5px 15px; width:60px; height:21px; line-height:21px; text-align:center; background:url(/images/bg_edit.jpg) repeat-x; color:#FFF;  }
+*/
+
+.sf_admin_action_delete, 
+.sf_admin_action_view, 
+.sf_admin_action_copy, 
+.sf_admin_action_edit
+{ padding:5px 0;text-align:center;  float:left; width:100%;}
+.sf_admin_action_delete a,
+.sf_admin_action_view a,
+.sf_admin_action_copy a,
+.sf_admin_action_edit a
+{ font-size:15px; color:#0079c2; text-decoration:underline;}
+.sf_admin_actions li{float:left}
+.sf_admin_action_save input{
+ margin:5px 2px; 
+ display:inline-block; 
+ padding:6px 0px; 
+ height:30px; 
+ width:98px; 
+ text-align:center; 
+ color:#fff; 
+ border:0px; 
+ background:url(/images/bg_blur.jpg) repeat-x;
+ cursor:pointer;}
+.sf_admin_action_list a{ background:url(/images/bg_edit.jpg) repeat-x; }
+.sf_admin_list_th {font-size: 14px; color: #0079c2; text-align: center;}
+.sf_admin_list_th a{font-size: 14px; color: #0079c2; text-align: center;}

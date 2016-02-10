@@ -1,0 +1,10 @@
+@import url(public.css);
+
+.loginbox{width:680px; margin:50px auto; }
+.icon_logo{ padding:35px 0 15px; height:76px; width:100%; text-align:center; background:#FFF url(../images/bg_header.jpg) repeat-x; }
+.logincont{ width:552px; height:165px; padding:110px 0 0 128px; background:url(../images/login/bg_login.jpg) no-repeat; }
+.lc_box{ width:552px; height:32px; overflow:hidden; }
+.lc_box input{float:left; border:none; display:inline; }
+.lc_box .intxt{ display:inline-block; width:130px; height:20px; line-height:20px; border:none; padding:4px 4px 4px 14px; margin:2px 10px 0 0; background:none; color:#999}
+.inbtnlogin{ display:inline-block; margin-top:-1px; width:98px; height:32px; background:url(../images/login/btn_login.jpg) no-repeat; border:none; cursor:pointer; }
+

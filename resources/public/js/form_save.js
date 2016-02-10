@@ -1,0 +1,3 @@
+$('#start, #end').datepicker({
+  dateFormat: '@'
+});
